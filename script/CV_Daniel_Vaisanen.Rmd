@@ -1,0 +1,252 @@
+---
+title: "Daniel Väisänen resume"
+author: MJL
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+<!-- icons: https://fontawesome.com/v5/search -->
+
+# Aside
+
+![Daniel Vaisanen](profilepic.PNG){width="80%"}
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> [d.vaisanen\@gmail.com](mailto:d.vaisanen@gmail.com){.email}
+-   <i class="fa fa-github"></i> [github.com/dvaiman](https://github.com/dvaiman)
+-   <i class="fa fa-phone"></i> +46 704067484
+-   For more information, please contact me via email.
+
+## Skills {#skills}
+
+
+-   Extensive experience with data visualization, data management, data analysis and epidemiological methods.
+
+-   Highly skilled in R, some experience with Python and git.
+
+## Disclaimer {#disclaimer}
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## Daniel Väisänen {#title}
+
+### PhD student in epidemiology
+
+I am a Swedish Ph.D a student with a background in Sociology and Sport Science with a passion for epidemiology, data science and reproducible research. My favorite topics are public health, complex data management and unraveling the mechanisms of complex outcomes.
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### Swedish School of Sport and Health Sciences
+
+Ph.D in Sport Science
+
+Stockholm, Sweden
+
+Current - 2019
+
+**Thesis:** Cardiorespiratory fitness, physical workload, and lifestyle-related factors in occupational groups – Associations with sickness absence and cardiovascular disease. Find the thesis [here.](https://gih.diva-portal.org/smash/record.jsf?pid=diva2%3A1755906&dswid=-5654)
+
+### Swedish School of Sport and Health Sciences
+
+M.S. in Sport Science
+
+Stockholm, Sweden
+
+2017 - 2015
+
+**Thesis:** Effect of 10 weeks of strength training on markers of hypertrophy, translation, and proteolysis. Find the thesis [here.](http://gih.diva-portal.org/smash/record.jsf?pid=diva2%3A974149&dswid=-1864)
+
+### Swedish School of Sport and Health Sciences
+
+B.S. in Sport Science "Health Educator"
+
+Stockholm, Sweden
+
+2015 - 2012
+
+### Södertörn University
+
+B.S. in Sociology
+
+Stockholm, Sweden
+
+2008 - 2004
+
+## Work Experience {data-icon="laptop"}
+
+### Research assistant
+
+Swedish School of Sport and Health Sciences
+
+Stockholm, Sweden
+
+2019 - 2017
+
+-   Working in different research projects involving cardiorespiratory fitness testing, device measured physical activity, and cognitive testing.
+
+### Test leader
+
+Avonova Active
+
+Stockholm, Sweden
+
+2018 - 2014
+
+-   72 hour stress and recovery analyses where heart rate variability was measured with electrocardiogram. Additionally, performing VO2max and lactate/threshold tests. 
+
+### Test leader
+
+Swedish School of Sport and Health Sciences
+
+Stockholm, Sweden
+
+2014
+
+-   Performing physiological testing (sub-maximal and maximal VO2max tests, strength and flexibility tests).
+
+<!-- ## Extracurricular Activity {data-icon="fas fa-users"} -->
+
+<!--### Chair of Kungliga Tekniska Högskolan (KTH) outdoor club  -->
+
+<!-- Student run sports and hiking association. -->
+
+<!-- Stockholm, Sweden -->
+
+<!-- 8/2018 – 8/2019 -->
+
+## Teaching {data-icon="fal fa-award"}
+
+### Swedish School of Sport and Health Sciences
+
+Taught within the course *Analytical statistics for sports scientists* (Master level).
+
+Stockholm, Sweden
+
+2019
+
+### Försvarshälsan Skaraborgs Regemente
+
+Taught the methodology and execution of submaximal cycle ergometer tests, specifically the Ekblom-Bak test and the Åstrand test, which are utilized for the estimation of VO2max.
+
+Skövde, Sweden
+
+2018
+
+### Swedish School of Sport and Health Sciences
+
+Taught within the course *Analytical statistics for sports scientists* (Master level).
+
+Stockholm, Sweden
+
+2018
+
+## Publications {data-icon="file"}
+### Does cardiorespiratory fitness moderate the association between occupational physical workload and sickness absence in occupations with low educational demands?
+
+unpublished
+
+N/A
+
+NA
+
+**Väisänen D**, Johansson PJ, Kallings L, Hemmingsson E, Andersson G, Wallin P, Paulsson S, Nyman T, Stenling A, Svartengren M, Ekblom-Bak E.
+
+### Revisiting the physical activity paradox: the role of cardiorespiratory fitness in workers with high aerobic demands.
+
+Scand J Public Health.
+
+N/A
+
+2023
+
+Ekblom-Bak E, Ekblom B, Paulsson S, Wallin P, **Väisänen D**.
+
+### Mediation of lifestyle-associated variables on the association between occupation and incident cardiovascular disease.
+
+Prev Med.
+
+N/A
+
+2023
+
+**Väisänen D**, Kallings L, Andersson G, Wallin P, Hemmingsson E, Stenling A, Ekblom-Bak E.
+
+### Correlates of cardiorespiratory fitness in a population-based sample of middle-aged adults: cross-sectional analyses in the SCAPIS study.
+
+BMJ open
+
+N/A
+
+2022
+
+Börjesson M, Ekblom Ö, Arvidsson D, Heiland EG, **Väisänen D**, Bergström G, Ekblom-Bak E.
+
+### Cardiorespiratory fitness and lifestyle on severe COVID-19 risk in 279,455 adults: a case control study.
+
+Int J Behav Nutr Phys Act.
+
+N/A
+
+2021
+
+Ekblom-Bak E, **Väisänen D**, Ekblom B, Blom V, Kallings LV, Hemmingsson E, Andersson E, Wallin P, Eriksson JS, Holmlund T, Lindwall M, Stenling A, Lönn A.
+
+### Combinations of BMI and cardiorespiratory fitness categories: trends between 1995 and 2020 and associations with CVD incidence and mortality and all-cause mortality in 471 216 adults.
+
+Eur J Prev Cardiol.
+
+N/A
+
+2021
+
+Hemmingsson E, **Väisänen D**, Andersson G, Wallin P, Ekblom-Bak E.
+
+### Cardiorespiratory Fitness in Occupational Groups-Trends over 20 Years and Future Forecasts. 
+
+Int J Environ Res Public Health.
+
+N/A
+
+2021
+
+**Väisänen D**, Kallings LV, Andersson G, Wallin P, Hemmingsson E, Ekblom-Bak E.
+
+### Lifestyle Habits and Mental Health in Light of the Two COVID-19 Pandemic Waves in Sweden, 2020.
+
+Int J Environ Res Public Health.
+
+N/A
+
+2021
+
+Blom V, Lönn A, Ekblom B, Kallings LV, **Väisänen D**, Hemmingsson E, Andersson E, Wallin P, Stenling A, Ekblom Ö, Lindwall M, Eriksson JS, Holmlund T, Ekblom-Bak E.
+
+### Lifestyle-associated health risk indicators across a wide range of occupational groups: a cross-sectional analysis in 72,855 workers.
+
+BMC Public Health.
+
+N/A
+
+2020
+
+**Väisänen D**, Kallings LV, Andersson G, Wallin P, Hemmingsson E, Ekblom-Bak E. 
+
+### Criterion validity of the Ekblom-Bak and the Åstrand submaximal test in an elderly population.
+
+Eur J Appl Physiol.
+
+N/A
+
+2020
+
+**Väisänen D**, Ekblom Ö, Ekblom-Bak E, Andersson E, Nilsson J, Ekblom M.
